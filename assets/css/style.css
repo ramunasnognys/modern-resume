@@ -358,7 +358,7 @@ img {
 }
 
 .skills__name,
-.languages__name::before {
+.languages__name,.experience__bullet::before {
   content: "";
   width: 5px;
   height: 5px;
