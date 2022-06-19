@@ -333,7 +333,12 @@ img {
 .education__year {
   font-size: var(--small-font-size);
 }
+.experience__bullet {
+  /* background: lightgreen; */
+  text-align: justify;
+  word-break: break-all;
 
+}
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content,
 .languages__content {
